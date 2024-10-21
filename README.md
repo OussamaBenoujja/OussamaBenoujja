@@ -75,8 +75,6 @@
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
 
-      <br>
-    </p>
   </samp>
 </div>
 </details>
@@ -95,9 +93,6 @@
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/OussamaBenoujja/OussamaBenoujja/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/OussamaBenoujja/OussamaBenoujja/badge/main" height="25"
-     alt="CodeFactor" /></a>
   <a href="github.com/OussamaBenoujja" target="blank"><img align="center" 
      src="https://github.com/OussamaBenoujja/OussamaBenoujja/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
@@ -154,8 +149,8 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/OussamaBenoujja/github-readme-activity-graph">
-  <img alt="OussamaBenoujja's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=OussamaBenoujja&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/OussamaBenoujja">
+  <img alt="OussamaBenoujja's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OussamaBenoujja&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 <br/>
   </samp>
   </details>
