@@ -150,7 +150,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/OussamaBenoujja">
-  <img alt="OussamaBenoujja's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OussamaBenoujja&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
+  <img alt="OussamaBenoujja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaBenoujja&theme=dracula" /></a>
 <br/>
   </samp>
   </details>
