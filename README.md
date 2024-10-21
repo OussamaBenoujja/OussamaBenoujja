@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Oussama</h1>
+<h1 align="center">Hi <img width="35" src="https://c.tenor.com/8W8rOwe8XCEAAAAd/tenor.gif">, I'm Oussama</h1>
 <h4 align="center">a student at youcode currently studying Fullstack Dev</h4>
 </div>
 
