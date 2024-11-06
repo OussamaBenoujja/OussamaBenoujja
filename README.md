@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<details open>
+<details>
   <summary>Oussama Benoujja!</summary>
 <div>
 </div>
